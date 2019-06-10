@@ -1,11 +1,11 @@
-# EMOJI CATCHER
+# MEME CATCHER
 By Wenliang Guo 
 
 ##Introduction 
-For the emoji-images collecting lovers. With this software you will never be defeated by your friends when soloing the emoji pictures.
+For the meme-images collecting lovers. With this software you will never be defeated by your friends when soloing the emoji pictures.
 
 ##Including
-source code && emoji dataset(involve 15094 image files)
+source code && meme dataset(involve 15094 image files)
 
 ##environment
 1. python version=3.6
