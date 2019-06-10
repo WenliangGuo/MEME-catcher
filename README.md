@@ -2,7 +2,7 @@
 By Wenliang Guo 
 
 ## Introduction 
-This project is buit for the meme-images collecting lovers. With this software you will never be defeated by your friends when soloing the emoji pictures.
+This project is built for the meme-images collecting lovers. With this software you will never be defeated by your friends when soloing the emoji pictures.
 
 ## Including
 source code && meme dataset(involve 15094 image files)
