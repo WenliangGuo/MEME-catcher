@@ -2,7 +2,7 @@
 By Wenliang Guo 
 
 ## Introduction 
-For the meme-images collecting lovers. With this software you will never be defeated by your friends when soloing the emoji pictures.
+This project is buit for the meme-images collecting lovers. With this software you will never be defeated by your friends when soloing the emoji pictures.
 
 ## Including
 source code && meme dataset(involve 15094 image files)
@@ -14,4 +14,4 @@ source code && meme dataset(involve 15094 image files)
 (defult settings are provided)
 
 ## Others
-The code is simple which only has 70 lines in total. The inital reason why I choose to spend time on it is that I hope to let more friends konw that the process of coding and what it finally brings to us are not only finishing schoolwork or some other tasks, but more critical we all can find own happiness and passion in above them. I wish the idea can be transmitted to more people.
+The code is simple which only has 70 lines in total. The initial reason why I choose to spend time on it is that I hope to let more friends konw that the process of coding and what it finally brings to us are not only finishing schoolwork or some other tasks, but more critical we all can find our own happiness and passion in above them. I wish the idea can be transmitted to more people.
